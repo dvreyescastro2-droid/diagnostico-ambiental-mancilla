@@ -27,7 +27,10 @@ El desarrollo del proyecto se realizó mediante herramientas de programación, a
 
 6. Se desarrollaron notebooks en Jupyter para el análisis de cada componente ambiental.
 
-7. Se utilizaron librerías de Python como:
+7. Se utilizaron herramientas y librerías como:
+   - GitHub,
+   - Git Bash,
+   - Visual Studio Code,
    - pandas,
    - matplotlib.
 

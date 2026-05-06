@@ -1,6 +1,6 @@
-anio,temperatura_media_c,precipitacion_mm,humedad_relativa,velocidad_viento_kmh
-2020,13.1,980,78,10
-2021,13.3,1020,79,10.5
-2022,13.5,1085,80,11
-2023,13.7,1120,81,11.5
-2024,13.8,1150,82,12
+variable,valor,unidad,fuente
+Temperatura media anual,12.1,°C,Vereda Mancilla
+Altitud mínima,2600,msnm,Vereda Mancilla
+Altitud máxima,3000,msnm,Vereda Mancilla
+Precipitación media,1200,mm/año,Ecoreserva Mansilla
+Humedad relativa,80,%,Condiciones andinas

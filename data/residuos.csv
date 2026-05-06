@@ -1,6 +1,6 @@
-anio,residuos_generados_ton,aprovechamiento_ton,disposicion_final_ton,tasa_aprovechamiento_pct
-2020,18500,2100,16400,11.35
-2021,19100,2300,16800,12.04
-2022,19800,2600,17200,13.13
-2023,20500,2900,17600,14.15
-2024,21100,3200,17900,15.17
+variable,valor,unidad,fuente
+Residuos sólidos generados mensualmente,2583.3,ton/mes,PMGRD Facatativá
+Residuos sólidos generados anualmente,30999.6,ton/año,Cálculo anual
+Relleno sanitario,Nuevo Mondoñedo,NA,PGIRS
+Prestador principal,Trash Global S.A ESP,NA,PGIRS
+

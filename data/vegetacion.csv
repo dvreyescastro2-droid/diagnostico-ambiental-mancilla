@@ -1,6 +1,6 @@
-anio,cobertura_vegetal_ha,area_intervenida_ha,area_protegida_ha
-2020,820,120,700
-2021,810,128,698
-2022,798,135,693
-2023,790,140,690
-2024,785,145,687
+anio,cobertura_vegetal_ha,area_intervenida_ha,area_protegida_ha,arbustales_pct,pastos_limpios_pct
+2020,820,120,700,62.54,21.91
+2021,810,128,698,62.10,22.30
+2022,798,135,693,61.80,22.70
+2023,790,140,690,61.20,23.10
+2024,785,145,687,60.80,23.50
